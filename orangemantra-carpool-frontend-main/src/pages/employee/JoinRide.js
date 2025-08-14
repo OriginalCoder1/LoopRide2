@@ -50,7 +50,7 @@ function JoinRide() {
                 >
                     <FaArrowLeft /> Back
                 </button>
-                <img src="/orangemantra Logo.png" alt="Logo" className="w-16 h-16 mb-4 rounded-full shadow" />
+                <img src="/RidePool Logo.png" alt="Logo" className="w-16 h-16 mb-4 rounded-full shadow" />
                 <h2 className="text-3xl font-bold text-blue-700 mb-2 text-center">Join a Ride</h2>
                 <p className="text-gray-500 mb-6 text-center">Browse and join available rides offered by your colleagues.</p>
                 <h3 className="text-xl font-semibold text-gray-700 mb-4 w-full text-left">Available Rides</h3>

@@ -69,7 +69,7 @@ function OfferRide() {
                 >
                     <FaArrowLeft /> Back
                 </button>
-                <img src="/orangemantra Logo.png" alt="Logo" className="w-16 h-16 mb-4 rounded-full shadow" />
+                <img src="/RidePool Logo.png" alt="Logo" className="w-16 h-16 mb-4 rounded-full shadow" />
                 <h2 className="text-3xl font-bold text-blue-700 mb-2 text-center">Offer a Ride</h2>
                 <p className="text-gray-500 mb-6 text-center">Fill in the details to publish your ride for others to join.</p>
                 {success && (

@@ -84,8 +84,8 @@ function EmployeeDashboard() {
             {/* Navbar */}
             <nav className="flex justify-between items-center bg-white bg-opacity-95 shadow-md px-8 py-4 sticky top-0 z-10">
                 <h1 className="text-2xl font-bold text-blue-700 flex items-center gap-2">
-                    <img src="/orangemantra%20Logo.png" alt="Logo" className="w-8 h-8 rounded-full" />
-                    Orangemantra Carpool
+                    <img src="/RidePool%20Logo.png" alt="Logo" className="w-8 h-8 rounded-full" />
+                    RidePool Carpool
                 </h1>
                 <button
                     onClick={handleLogout}
@@ -98,7 +98,7 @@ function EmployeeDashboard() {
             <section className="max-w-4xl mx-auto mt-8">
                 <div className="bg-white rounded-2xl shadow-2xl flex flex-col md:flex-row items-center gap-8 p-8 border border-blue-100">
                     <img
-                        src="/orangemantra%20Logo.png"
+                        src="/RidePool%20Logo.png"
                         alt="Avatar"
                         className="w-24 h-24 rounded-full border-4 border-blue-400 shadow"
                     />
